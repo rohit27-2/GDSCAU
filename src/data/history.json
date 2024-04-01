@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Rohith",
+    "organisation": "Lead",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": [],
+    "imageSrc": "hero/gdsc_logo-removebg-preview.png"
+  },
+  {
+    "role": "Sathwik",
+    "organisation": "AR/VR Lead",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": [],
+    "imageSrc": "hero/gdsc_logo-removebg-preview.png"
+  },
+  {
+    "role": "Vinod",
+    "organisation": "AI Lead",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": [
+      
+      
+    ],
+    "imageSrc": "hero/gdsc_logo-removebg-preview.png"
+  }
+]

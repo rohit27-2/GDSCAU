@@ -1,0 +1,66 @@
+[
+  {
+      "title": "Welcome & Induction",
+      "imageSrc": "projects/project.png",
+      "description": "We kicked off the year with an informative session introducing new members to our club's mission and upcoming events.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+  },
+  {
+      "title": "GenAI Workshop",
+      "imageSrc": "projects/project.png",
+      "description": "Members explored artificial intelligence (AI) principles, applications, and ethics in an engaging workshop.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+  },
+  {
+      "title": "Open Source Initiatives",
+      "imageSrc": "projects/project.png",
+      "description": "We organized workshops to encourage contributions to open-source projects, promoting collaboration and innovation.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+  },
+  {
+      "title": "Campus Treasure Hunt",
+      "imageSrc": "projects/project.png",
+      "description": "An exciting event that fostered team spirit as members decoded clues around the campus.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+  },
+  {
+      "title": "Tableau Workshop",
+      "imageSrc": "projects/project.png",
+      "description": "Participants learned data visualization skills using Tableau software, transforming data into compelling narratives.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+  },
+  {
+      "title": "Android Compose Camp",
+      "imageSrc": "projects/project.png",
+      "description": "Aspiring Android developers explored Jetpack Compose, Google's modern UI toolkit.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+  },
+  {
+      "title": "Webiee Marathon",
+      "imageSrc": "projects/project.png",
+      "description": "A two-day web development marathon where participants tackled challenges and collaborated on projects.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+  },
+  {
+      "title": "Accelchain Blockchain Workshop",
+      "imageSrc": "projects/project.png",
+      "description": "Attendees gained insights into blockchain fundamentals and built blockchain solutions hands-on.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+  }
+]
